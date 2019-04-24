@@ -1,5 +1,12 @@
 # Dockerized pa11y-dashboard
 
+## Setup Steps
+- 1. Create Digital Ocean Droplet Docker on Ubuntu 18
+- 2. SSH into server as root and create SSH keys on server
+- 3. Copy and add key to Github
+- 4. Clone this repo in the root home directory
+- 5. Follow instructions below then point sub-directory to ip
+
 A Docker container that runs [pa11y-dashboard](https://github.com/pa11y/dashboard).
 
 Install from Docker Hub:
