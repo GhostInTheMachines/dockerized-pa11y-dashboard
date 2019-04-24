@@ -5,7 +5,8 @@
 - 2. SSH into server as root and create SSH keys on server
 - 3. Copy and add key to Github
 - 4. Clone this repo in the root home directory
-- 5. Follow instructions below then point sub-directory to ip
+- 5. CD into dockerized-pa11y-dashboard directory
+- 6. Follow instructions below then point sub-directory to ip
 
 A Docker container that runs [pa11y-dashboard](https://github.com/pa11y/dashboard).
 
